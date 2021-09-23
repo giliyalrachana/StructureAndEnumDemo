@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StructureAndEnumDemo\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.pdb
